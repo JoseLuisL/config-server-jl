@@ -1,0 +1,5 @@
+name: service-product
+app: 
+	services:
+		saldos: 1
+		voltons: 2
